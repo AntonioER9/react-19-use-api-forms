@@ -29,6 +29,12 @@
       "name": "Júpiter",
       "type": "Planeta",
       "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "2aca",
+      "name": "jueves",
+      "type": "nose",
+      "distanceFromSun": "100"
     }
   ]
 }
